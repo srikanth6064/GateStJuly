@@ -1,0 +1,14 @@
+.campign {
+  width: 30% !important;
+  display: inline-block;
+}
+.campign .form_group {
+  display: inline-block;
+  margin-left: 20px;
+}
+.loading {
+    width: 200px;
+    height: 10p;
+    margin-top: -30px;
+    margin-left: -70px;
+}
